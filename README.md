@@ -25,7 +25,7 @@
 
 - 📫 How to reach me: **awaisrao18@gmail.com**
 
-- 📄 Know about my experiences:(https://www.linkedin.com/in/your-linkedin/ali-awais-cs)  
+- 📄 Know about my experiences:(https://www.linkedin.com/in/ali-awais-cs)  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
