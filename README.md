@@ -6,6 +6,8 @@
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 20px;">
 - 🌱 I’m currently learning:
 <ul>
+<li>Game Developement with Unity</li>
+<li>C# for Unity Games</li>
 <li>Java & Object-Oriented Programming (OOP)</li>
 <li>Database Management Systems (DBMS) & SQL</li>
 <li>Java Swing Desktop Applications</li>
@@ -15,7 +17,7 @@
 <li>Problem Solving & Logical Thinking</li>
 </ul>
 
-<img src="https://i.pinimg.com/originals/bd/4e/d3/bd4ed327189c2a56695beb91cd534570.gif" alt="Coding" style="max-width: 500px; height: auto;">
+<img src="https://pin.it/5NZ6cWTRG" alt="Coding" style="max-width: 500px; height: auto;">
 
 </div>
 
