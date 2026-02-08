@@ -17,7 +17,7 @@
 <li>Problem Solving & Logical Thinking</li>
 </ul>
 
-<img src="https://pin.it/5NZ6cWTRG" alt="Coding" style="max-width: 500px; height: auto;">
+<img src="https://i.pinimg.com/736x/21/70/46/21704649a5e698cfe70a862e71784fb1.jpg" alt="Coding" style="max-width: 500px; height: auto;">
 
 </div>
 
