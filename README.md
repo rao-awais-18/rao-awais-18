@@ -1,3 +1,5 @@
+<div style = "background-color: blue">
+
 <h1 align="center">Hi 👋, I'm Ali Awais</h1>
 <h3 align="center">A passionate Computer Science student & aspiring Software & Unity Game Developer from Pakistan</h3>
 
@@ -53,3 +55,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=your-github-username&show_icons=true&locale=en&layout=compact" alt="top-langs" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&locale=en" alt="github-stats" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&" alt="streak-stats" /></p>
+
+</div>
