@@ -15,6 +15,10 @@
 <li>Unity Game Development & C# Scripting</li>
 <li>Software Engineering Principles</li>
 <li>Data Structures & Algorithms</li>
+<li>Mobile Applications Develpement(Flutter-Dart)</li>
+<li>Website Developement</li>
+<li>Computer Organizations and Assembley Language</li>
+<li>Operating Systems</li>
 <li>Problem Solving & Logical Thinking</li>
 </ul>
 
