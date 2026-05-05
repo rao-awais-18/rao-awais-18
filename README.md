@@ -26,9 +26,9 @@
 
 </div>
 
-- 👨‍💻 All of my projects are available at [Your GitHub Projects](https://github.com/rao-awais-18?tab=repositories)
+- 👨‍💻 All of my projects are available at [MY GitHub Projects](https://github.com/rao-awais-18?tab=repositories)
 
-- 💬 Ask me about **Java, OOP, DBMS, SQL, Java Swing, Unity Game Development, C#, Software Engineering, and Data Structures**
+- 💬 Ask me about **Java, OOP, DBMS, SQL, Java Swing, Unity Game Development, C#, Software Engineering and Data Structures**
 
 - 📫 How to reach me: **awaisrao18@gmail.com**
 
