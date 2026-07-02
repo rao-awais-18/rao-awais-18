@@ -30,7 +30,7 @@
 
 - 💬 Ask me about **Java, OOP, DBMS, SQL, Java Swing, Unity Game Development, C#, Software Engineering and Data Structures**
 
-- 📫 How to reach me: **awaisrao18@gmail.com**
+- 📫 How to reach me: **raoawais.dev@gmail.com**
 
 - 📄 Know about my experiences:(https://www.linkedin.com/in/ali-awais-cs)  
 
